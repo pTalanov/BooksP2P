@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BookGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BookGenerator_jar</output-path>
+    <root id="archive" name="BookGenerator.jar">
+      <element id="module-output" name="BookGenerator" />
+      <element id="module-output" name="Core" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/annotations.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

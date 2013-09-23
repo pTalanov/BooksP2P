@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BooksP2PSrc">
+    <output-path>$PROJECT_DIR$/out/artifacts/BooksP2PSrc</output-path>
+    <root id="archive" name="BooksP2PSrc.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/Core/src" />
+      <element id="dir-copy" path="$PROJECT_DIR$/Server/src" />
+      <element id="dir-copy" path="$PROJECT_DIR$/Peer/src" />
+      <element id="dir-copy" path="$PROJECT_DIR$/BookGenerator/src" />
+    </root>
+  </artifact>
+</component>
